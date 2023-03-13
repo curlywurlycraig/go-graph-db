@@ -1,0 +1,5 @@
+package bin
+
+func main() {
+
+}
